@@ -17,3 +17,6 @@
 例如控制器和sql语句的分离。
 
 使用node mysql开发项目需要注重sql语句的编写。
+
+
+参考源文档：https://github.com/htmlk/express
